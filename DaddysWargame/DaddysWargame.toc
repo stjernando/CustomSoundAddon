@@ -1,0 +1,9 @@
+## Interface: 11304
+## Title: Daddy's Wargames
+## Notes:
+## SavedVariablesPerCharacter: BamCharSettings
+## DefaultState: Enabled
+## LoadOnDemand: 0
+Meat\DaddysWargame.lua
+Meat\DaddysWargame.xml
+
